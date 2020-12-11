@@ -1,8 +1,4 @@
 第一次commit 
 第二次commit
-<<<<<<< HEAD
 第三次commit
 
-=======
-第三次commit
->>>>>>> 1c9835b... 第四次“
